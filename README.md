@@ -7,8 +7,11 @@ Let's make giant forest in 2024!
 My goal for Janvier : BOJ GOLD 🥇
 
 0111: START
+
 0111: BRONZE 🥉
+
 0114: SILVER 🥈
+
 0125:  GOLD  🥇
 
 <!--
