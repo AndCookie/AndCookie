@@ -9,19 +9,19 @@ My goal of Janvier : BOJ GOLD 🥇
 
 0111: START
 
-0111: BRONZE 🥉
-  0111 BRONZE 5&4
+0111: BRONZE 🥉 / 
+  0111 BRONZE 5&4 / 
   0112 BRONZE 3&2&1
   
-0114: SILVER 🥈
-  0114 SILVER 5
-  0117 SILVER 4
-  0120 SILVER 3
-  0123 SILVER 2
-  0126 SILVER 1
+0114: SILVER 🥈 / 
+  0114 SILVER 5 / 
+  0117 SILVER 4 / 
+  0120 SILVER 3 / 
+  0123 SILVER 2 / 
+  0126 SILVER 1 / 
   
-0129:  GOLD  🥇
-  0129 GOLD 5
+0131:  GOLD  🥇 / 
+  0131 GOLD 5
 
 <!--
 **AndCookie/AndCookie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
